@@ -14,6 +14,14 @@
   <a href="https://www.linkedin.com/in/tejeddinne-khenissi/"><img src="https://img.shields.io/badge/LinkedIn-@TejeddinneKhenissi-blue?style=flat&logo=linkedin"></a>
 </p>
 
+## 🌐 Mon Portfolio
+
+<p align="center">
+  Découvrez mon travail et mes projets plus en détail sur mon site portfolio.<br>
+  <a href="https://tejdin.github.io/portfolio/">https://tejdin.github.io/portfolio/</a>
+</p>
+
+
 ## 🛠️ Mes compétences
 
 ### 👨‍💻 Langages de programmation et de balisage
