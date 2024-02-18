@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70F40&center=true&width=700&lines=Étudiant+en+Informatique;Passionné+par+le+développement+web+et+mobile;Toujours+à+l'apprentissage+de+nouvelles+technologies" alt="Typing SVG" />
 </p>
 
-### 🤝🏻 Connectez-moi !
+### 🤝🏻 Mes Profiles !!
 
 <p align="center">
   <a href="mailto:tejeddinne.khenissi@etu.unistra.fr"><img src="https://img.shields.io/badge/Email-tejeddinne.khenissi%40etu.unistra.fr-blue?style=flat&logo=gmail"></a>
