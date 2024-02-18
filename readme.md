@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/tejeddinne/count.svg" alt="Compteur de visites">
+  <img src="https://profile-counter.glitch.me/tejdin/count.svg" alt="Compteur de visites">
 </p>
